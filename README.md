@@ -1,3 +1,12 @@
+## UAS Web Service - UNISBANK
+
+Nama : Muhammad Bariq Al Mukasyah<br>
+NIM : 20.01.53.3005
+
+## .env File
+
+Don't forget to edit .env file and import DB
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
