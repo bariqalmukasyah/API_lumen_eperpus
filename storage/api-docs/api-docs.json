@@ -1,0 +1,27 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Example API",
+        "contact": {
+            "name": "Support Team",
+            "email": "support@example.com"
+        },
+        "version": "1.0"
+    },
+    "paths": {
+        "/anggota": {
+            "get": {
+                "tags": [
+                    "GET"
+                ],
+                "summary": "Get All Anggota",
+                "operationId": "4cc2e6040d6d10e5473022df1414763b",
+                "responses": {
+                    "200": {
+                        "description": "Data is successfully retrivied"
+                    }
+                }
+            }
+        }
+    }
+}
